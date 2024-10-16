@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 {% load bootstrap3 %} 
-<html lang="en">
+<html lang="de">
 <head>
     <style type="text/css">
       body {

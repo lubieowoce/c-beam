@@ -4,7 +4,7 @@
 
 {% block content %}
 
-  <table class="table table-condensed table-bordered table-hover">
+  <table lang="en" class="table table-condensed table-bordered table-hover">
     <tr><td>Username:</td><td width="100%"> {{ object.username }}</td></tr>
     <tr><td>Status:</td><td> {{ object.status }}</td></tr>
     <tr><td>AP:</td><td> {{ object.ap }}</td></tr>

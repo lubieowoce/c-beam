@@ -11,7 +11,7 @@
   <div class="container">
       {% block content %}
           <p><hr></p>
-          <h1>nerdctrl status monitor</h1><br>please send content to smile@c-base.org
+          <h1 lang="en">nerdctrl status monitor</h1><br><span lang="en">please send content to smile@c-base.org</span>
       {% endblock %}
       <p><hr></p>
       <footer class="row">

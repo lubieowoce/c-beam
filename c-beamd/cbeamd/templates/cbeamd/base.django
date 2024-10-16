@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 {% load bootstrap3 %} 
 {% load static %}
-<html lang="en">
+<html lang="de">
 <head>
     
     <style type="text/css">

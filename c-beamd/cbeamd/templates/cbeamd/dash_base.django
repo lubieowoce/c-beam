@@ -9,7 +9,7 @@
         padding-top: 20px;
       }
     </style>
-    {% block content %}<h1>nerdctrl status monitor</h1><br>please send content to smile@c-base.org{% endblock %}
+    {% block content %}<h1 lang="en">nerdctrl status monitor</h1><br><span lang="en">please send content to smile@c-base.org</span>{% endblock %}
     <p><hr></p>
     <footer class="row">
     </footer>

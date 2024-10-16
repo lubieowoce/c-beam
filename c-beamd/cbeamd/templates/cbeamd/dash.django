@@ -17,7 +17,7 @@
           {% endfor %}
           <div>user@c-beam&gt;&nbsp;<blink>_</blink></div>
       </div>
-      <div class="col-md-6 terminal transparent">
+      <div class="col-md-6 terminal transparent" lang="en">
           {% if barstatus %}
               <div class="btn btn-success btn-block"><h4>bar open</h4></div>
           {% else %}

@@ -4,6 +4,6 @@
 
 {% block content %}
 
-You have been logged out.
+<span lang="en">You have been logged out.</span>
 
 {% endblock content %}

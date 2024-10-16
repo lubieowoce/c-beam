@@ -2,7 +2,7 @@
 
 {% block content %}
 
-<h1 align="center">public transport conditions</h1>
+<h1 align="center" lang="en">public transport conditions</h1>
 
 {% include "cbeamd/departures.html" %}
 

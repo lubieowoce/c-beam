@@ -5,7 +5,7 @@
 {% block body %}
   <div class="container">
     <p><hr></p>
-    {% block content %}<h1>c-beam-viewer</h1><br>please send content to smile@c-base.org{% endblock %}
+    {% block content %}<h1 lang="en">c-beam-viewer</h1><br><span lang="en">please send content to smile@c-base.org</span>{% endblock %}
     <p><hr></p>
     <footer class="row">
     </footer>
